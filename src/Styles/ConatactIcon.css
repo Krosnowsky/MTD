@@ -1,0 +1,27 @@
+.ConatactIcon {
+    display: flex;
+    justify-content: space-around;
+    /* align-items: center; */
+    max-width: 80%;
+    margin: 10% auto;
+    /* flex-direction: column; */
+}
+
+.ConatactIcon a {
+    width: 100px;
+    margin: 0 auto;
+    text-decoration: none;
+    /* text-justify: auto; */
+}
+
+.ConatactIcon a img {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.ConatactIcon p {
+    text-align: center;
+    margin-top: 10px;
+    /* text-justify: auto; */
+    /* text-decoration: wavy; */
+}

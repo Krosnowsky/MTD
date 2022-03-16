@@ -1,0 +1,11 @@
+div .contact {
+    display: flex;
+    /* background-color: #000; */
+    flex-direction: column-reverse;
+    justify-content: space-around;
+}
+
+.side h2 {
+    text-align: center;
+    margin: 80px auto;
+}

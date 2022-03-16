@@ -1,0 +1,28 @@
+button {
+    /* background-color: transparent; */
+    border: none;
+}
+
+button div {
+    /* width: 40px; */
+    height: 5px;
+    border-radius: 50px;
+    /* margin-top: 5px; */
+
+    background-color: #000;
+}
+
+button :nth-child(1) {
+    margin-top: 0;
+    width: 40px;
+}
+
+button :nth-child(2) {
+    margin-top: 7px;
+    width: 30px;
+}
+
+button :nth-child(3) {
+    margin-top: 7px;
+    width: 35px;
+}
