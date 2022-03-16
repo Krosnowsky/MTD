@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.88f39d0d.css",
-    "main.js": "/static/js/main.5f8f3368.js",
-    "static/js/787.7079b3a9.chunk.js": "/static/js/787.7079b3a9.chunk.js",
-    "static/media/Article_2.jpg": "/static/media/Article_2.2944e87c7e2621e09ef3.jpg",
-    "static/media/Article_1.jpg": "/static/media/Article_1.32372227376bc09cefdf.jpg",
-    "static/media/phone_2.png": "/static/media/phone_2.ecfc466e7193f4b382ce.png",
-    "static/media/mail.png": "/static/media/mail.785b829dd03ccd86efaf.png",
-    "static/media/logo.png": "/static/media/logo.caa041a0f4d92933be0e.png",
-    "static/media/marker.png": "/static/media/marker.aebd742ae12ee765a403.png",
-    "index.html": "/index.html",
-    "main.88f39d0d.css.map": "/static/css/main.88f39d0d.css.map",
-    "main.5f8f3368.js.map": "/static/js/main.5f8f3368.js.map",
-    "787.7079b3a9.chunk.js.map": "/static/js/787.7079b3a9.chunk.js.map"
+    "main.css": "/MTD/static/css/main.65cd7a3c.css",
+    "main.js": "/MTD/static/js/main.5ecc4956.js",
+    "static/js/787.7079b3a9.chunk.js": "/MTD/static/js/787.7079b3a9.chunk.js",
+    "static/media/Article_2.jpg": "/MTD/static/media/Article_2.2944e87c7e2621e09ef3.jpg",
+    "static/media/Article_1.jpg": "/MTD/static/media/Article_1.32372227376bc09cefdf.jpg",
+    "static/media/phone_2.png": "/MTD/static/media/phone_2.ecfc466e7193f4b382ce.png",
+    "static/media/mail.png": "/MTD/static/media/mail.785b829dd03ccd86efaf.png",
+    "static/media/logo.png": "/MTD/static/media/logo.caa041a0f4d92933be0e.png",
+    "static/media/marker.png": "/MTD/static/media/marker.aebd742ae12ee765a403.png",
+    "index.html": "/MTD/index.html",
+    "main.65cd7a3c.css.map": "/MTD/static/css/main.65cd7a3c.css.map",
+    "main.5ecc4956.js.map": "/MTD/static/js/main.5ecc4956.js.map",
+    "787.7079b3a9.chunk.js.map": "/MTD/static/js/787.7079b3a9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.88f39d0d.css",
-    "static/js/main.5f8f3368.js"
+    "static/css/main.65cd7a3c.css",
+    "static/js/main.5ecc4956.js"
   ]
 }
