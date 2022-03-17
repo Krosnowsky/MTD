@@ -1,21 +1,24 @@
 {
   "files": {
-    "main.css": "/MTD/static/css/main.331dff67.css",
-    "main.js": "/MTD/static/js/main.826f0e91.js",
+    "main.css": "/MTD/static/css/main.f1a394eb.css",
+    "main.js": "/MTD/static/js/main.8279fabb.js",
     "static/js/787.7079b3a9.chunk.js": "/MTD/static/js/787.7079b3a9.chunk.js",
     "static/media/Article_2.jpg": "/MTD/static/media/Article_2.2944e87c7e2621e09ef3.jpg",
     "static/media/Article_1.jpg": "/MTD/static/media/Article_1.32372227376bc09cefdf.jpg",
+    "static/media/Twitter_grey.png": "/MTD/static/media/Twitter_grey.b11eb8cefdf651ef6c48.png",
     "static/media/phone_2.png": "/MTD/static/media/phone_2.ecfc466e7193f4b382ce.png",
     "static/media/mail.png": "/MTD/static/media/mail.785b829dd03ccd86efaf.png",
+    "static/media/Mail_grey.png": "/MTD/static/media/Mail_grey.05babd1ba90bfc5d90a4.png",
     "static/media/logo.png": "/MTD/static/media/logo.caa041a0f4d92933be0e.png",
+    "static/media/Fb_grey.png": "/MTD/static/media/Fb_grey.42ef11ee6714e2a7b530.png",
     "static/media/marker.png": "/MTD/static/media/marker.aebd742ae12ee765a403.png",
     "index.html": "/MTD/index.html",
-    "main.331dff67.css.map": "/MTD/static/css/main.331dff67.css.map",
-    "main.826f0e91.js.map": "/MTD/static/js/main.826f0e91.js.map",
+    "main.f1a394eb.css.map": "/MTD/static/css/main.f1a394eb.css.map",
+    "main.8279fabb.js.map": "/MTD/static/js/main.8279fabb.js.map",
     "787.7079b3a9.chunk.js.map": "/MTD/static/js/787.7079b3a9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.331dff67.css",
-    "static/js/main.826f0e91.js"
+    "static/css/main.f1a394eb.css",
+    "static/js/main.8279fabb.js"
   ]
 }
