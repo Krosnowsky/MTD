@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/MTD/static/css/main.81758b2a.css",
-    "main.js": "/MTD/static/js/main.8279fabb.js",
+    "main.css": "/MTD/static/css/main.25ab3184.css",
+    "main.js": "/MTD/static/js/main.02864cbd.js",
     "static/js/787.7079b3a9.chunk.js": "/MTD/static/js/787.7079b3a9.chunk.js",
     "static/media/Article_2.jpg": "/MTD/static/media/Article_2.2944e87c7e2621e09ef3.jpg",
     "static/media/Article_1.jpg": "/MTD/static/media/Article_1.32372227376bc09cefdf.jpg",
@@ -13,12 +13,12 @@
     "static/media/Fb_grey.png": "/MTD/static/media/Fb_grey.42ef11ee6714e2a7b530.png",
     "static/media/marker.png": "/MTD/static/media/marker.aebd742ae12ee765a403.png",
     "index.html": "/MTD/index.html",
-    "main.81758b2a.css.map": "/MTD/static/css/main.81758b2a.css.map",
-    "main.8279fabb.js.map": "/MTD/static/js/main.8279fabb.js.map",
+    "main.25ab3184.css.map": "/MTD/static/css/main.25ab3184.css.map",
+    "main.02864cbd.js.map": "/MTD/static/js/main.02864cbd.js.map",
     "787.7079b3a9.chunk.js.map": "/MTD/static/js/787.7079b3a9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.81758b2a.css",
-    "static/js/main.8279fabb.js"
+    "static/css/main.25ab3184.css",
+    "static/js/main.02864cbd.js"
   ]
 }
